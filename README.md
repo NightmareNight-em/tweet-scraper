@@ -15,7 +15,7 @@
       <li>Install Python 3.x.x and pip for python package installations.</li>
       <li>Twitter account authentication is required. It is recommended to log in with a new account, otherwise the account could be banned if extensive scraping is done. To log in to your account, you need to write your username USERNAME, password PASSWORD and mail ID EMAIL in the <code>.env</code> file.</li>
       <ol>
-          <li><strong>Go to the project directory and inside DataFetch/TweetDataFetch in your terminal.</strong></li>
+          <li>Go to the project directory in your terminal.</li>
           <li>Create <code>constants.py</code> file.</li>
           <li>Write below values -
               <ul>
