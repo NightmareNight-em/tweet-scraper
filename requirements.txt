@@ -1,0 +1,6 @@
+certifi
+selenium==4.2.0
+pandas
+python-dotenv
+urllib3
+webdriver-manager
