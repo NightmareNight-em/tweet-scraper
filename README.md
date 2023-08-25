@@ -13,7 +13,7 @@
   <ul>
       <li>Unzip the file into a project directory.</li>
       <li>Install Python 3.x.x and pip for python package installations.</li>
-      <li>Twitter account authentication is required. It is recommended to log in with a new account, otherwise the account could be banned if extensive scraping is done. To log in to your account, you need to write your username USERNAME, password PASSWORD and mail ID EMAIL in the <code>.env</code> file.</li>
+      <li>Twitter account authentication is required. It is recommended to log in with a new account, otherwise the account could be banned if extensive scraping is done. To log in to your account, you need to write your username USERNAME, password PASSWORD and mail ID EMAIL in the <code>constants.py</code> file.</li>
       <ol>
           <li>Go to the project directory in your terminal.</li>
           <li>Create <code>constants.py</code> file.</li>
