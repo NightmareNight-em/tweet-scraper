@@ -26,6 +26,7 @@
           </li>
           <li>Save the file.</li>
       </ol>
+    <li><strong>You must have Chrome installed on your system.</strong></li>
   </ul>
 
   <h2>2. Usage</h2>
